@@ -2,7 +2,7 @@
   <img src="https://github.com/FaaCode22/FaaCode22/blob/master/repostori.png?raw=true" alt="Banner" width="100%" />
 </p>
 
-https://github.com/FaaCode22/FaaCode22/blob/master/repostori.png
+
 
 # 👋 Halo, I'm Wafa
 
