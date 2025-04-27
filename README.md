@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://github.com/FaaCode22/FaaCode22/blob/main/repostori.png?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/FaaCode22/FaaCode22/blob/master/repostori.png?raw=true" alt="Banner" width="100%" />
 </p>
 
+https://github.com/FaaCode22/FaaCode22/blob/master/repostori.png
 
 # 👋 Halo, I'm Wafa
 
@@ -47,12 +48,6 @@ Passionate about web development, game development, and always eager to learn ne
 
 ## 📊 GitHub Stats
 
-
-(https://github-readme-stats.vercel.app/api?username=FaaCode22&show_icons=true&theme=transparent)
-  
-
-
-# WAFA CODE STATS
 
 [![](https://raw.githubusercontent.com/FaaCode22/FaaCode22/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/FaaCode22/FaaCode22/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FaaCode22/FaaCode22/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
