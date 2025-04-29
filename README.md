@@ -6,7 +6,7 @@
 
 # 👋 Halo, I'm Wafa
 
-My name is [wafa], currently based in [Bojonegoro,East Java ].  
+My name is wafa, currently based in Bojonegoro,East Java .  
 Passionate about web development, game development, and always eager to learn new things!
 
 ---
@@ -14,9 +14,9 @@ Passionate about web development, game development, and always eager to learn ne
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: **Create Web**
-- 🌱 I’m currently learning: **Fronend**
-- 👯 I’m looking to collaborate on: **Open Source / Game Projects**
-- 💬 Ask me about: **Web Development, Game Programming, Frontend Stuff**
+- 🌱 I’m currently learning: **Frontend**
+- 👯 I’m looking to collaborate on: **Open Source / Web Projects**
+- 💬 Ask me about: **Web Development, Frontend Stuff**
 - ⚡ Fun fact: **I don't like coding :)**
 
 ---
