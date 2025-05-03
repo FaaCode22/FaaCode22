@@ -13,9 +13,9 @@ Passionate about web development, game development, and always eager to learn ne
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **Create Web**
+- 🔭 I’m currently working on: **Create Website And Fivem server**
 - 🌱 I’m currently learning: **Frontend**
-- 👯 I’m looking to collaborate on: **Open Source / Web Projects**
+- 👯 I’m looking to collaborate on: **Fivem server / Web Projects**
 - 💬 Ask me about: **Web Development, Frontend Stuff**
 - ⚡ Fun fact: **I don't like coding :)**
 
